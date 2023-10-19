@@ -86,7 +86,7 @@ typing-extensions==3.10.0.2
 tzdata==2021.5
 tzlocal==4.1
 urllib3==1.26.7
-validators==0.18.2
+validators==0.21.0
 watchdog==2.1.6
 wcwidth==0.2.5
 webencodings==0.5.1
